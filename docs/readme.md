@@ -5,7 +5,7 @@
 
 ## 🧩 Objectives
 <p align="center">
-  <img src="./diagpassiveEN1.png" alt="Application Plan" width="200">
+  <img src="./diagpassiveEN2.png" alt="Application Plan" width="200">
 </p>
 
 - Understand how the target website technically works (e.g. `website.com`)
@@ -75,7 +75,7 @@ It is essential for better targeting the next steps (enumeration, vulnerabilitie
 
 ## 🎯 Objectives
 <p align="center">
-  <img src="./decouverte_contenus.PNG" alt="Content Plan" width="200">
+  <img src="./diagpassiveEN3.png" alt="Content Plan" width="200">
 </p>
 
 - Reveal files, pages and directories not listed in the website navigation  
@@ -149,7 +149,7 @@ gobuster dir -u http://SERVER_IP -w /usr/share/wordlists/seclists/Discovery/Web-
 
 ## 🎯 Objective
 <p align="center">
-  <img src="./OSINT.PNG" alt="OSINT Plan" width="200">
+  <img src="./diagpassiveEN4.png" alt="OSINT Plan" width="200">
 </p>
 
 Gather as much information as possible about a target **without any intrusive interaction**.  
