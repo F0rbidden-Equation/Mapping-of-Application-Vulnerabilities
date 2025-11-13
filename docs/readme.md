@@ -1,11 +1,11 @@
 
 
-![plan1](./etape_passive.png)
+![plan1](./diagpassiveEN1.png)
 # Web Application Analysis (Passive Phase)
 
 ## 🧩 Objectives
 <p align="center">
-  <img src="./diagpassiveEN1.png" alt="Application Plan" width="600">
+  <img src="./diagpassiveEN1.png" alt="Application Plan" width="200">
 </p>
 
 - Understand how the target website technically works (e.g. `website.com`)
