@@ -3,7 +3,7 @@
 
 > **A complete mapping of application vulnerabilities within the context of offensive security auditing.**
 
-![Web Vulnerability Pyramid](./pyramide_general.png)
+![Web Vulnerability Pyramid](./pyramidEN.png)
 
 ---
 
