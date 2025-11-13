@@ -35,7 +35,7 @@ Each layer of this pyramid will be detailed in dedicated sections, each with its
 ```bash
 📦 Web-Vulnerability-Pyramid
  ┣ 📜 README.md
- ┣ 🖼️ pyramide_general.png
+ ┣ 🖼️ pyramidEN.png
  ┣ 📂 docs/
  ┃ ┣ 📄 01-passive.md        # Passive phase – information gathering and analysis
  ┃ ┣ 📄 02-active.md         # Active phase – controlled tests and interactions
