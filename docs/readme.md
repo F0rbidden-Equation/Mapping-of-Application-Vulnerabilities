@@ -5,7 +5,7 @@
 
 ## 🧩 Objectives
 <p align="center">
-  <img src="./diagpassiveEN1.png" alt="Application Plan" width="200">
+  <img src="./diagpassiveEN1.png" alt="Application Plan" width="600">
 </p>
 
 - Understand how the target website technically works (e.g. `website.com`)
