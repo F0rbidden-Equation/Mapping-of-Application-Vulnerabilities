@@ -1,6 +1,6 @@
 
 
-![plan1](./etapes_active.png)
+![plan1](./diag2EN.png)
 
 # 🧭 Active Phase: Subdomain Enumeration
 
